@@ -23,7 +23,7 @@ public class EmployeeServlet extends HttpServlet {
     private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
     private static final String DB_URL = "jdbc:mysql://localhost:3306/company";
     private static final String USER = "root"; // Your DB username
-    private static final String PASS = "amity7161"; // Your DB password
+    private static final String PASS = "password"; // Your DB password
     // -------------------------------------
 
     @Override
